@@ -1,0 +1,56 @@
+/*
+
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.MakeAI {
+	color: color: rgb(126, 252, 91) !important;
+}
+.MakeAI1 {
+	color: rgb(126, 252, 91);
+}
+.MakeAI2 {
+	color: rgb(126, 252, 91);
+}
+.MakeAI3 {
+	color: rgb(126, 252, 91);
+}
+.MakeAI4 {
+	color: rgb(126, 252, 91);
+}
+
+.right-bar p {
+	margin: 1em;
+	padding: 1em;
+	color: white;
+	border-color: aquamarine;
+	font-size: 1.5em;
+}
+
+.container {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: repeat(3);
+}
+
+.card {
+	margin: 1.5em;
+}
+
+.card img {
+	border-radius: 40px;
+	width: 100%;
+}
+
+.card>.info {
+	text-align: center;
+}
+
+.info p {
+	color: white;
+	font-size: 1.2em;
+}
