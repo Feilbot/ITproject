@@ -6,6 +6,9 @@
 .nav-list .window_open_now {
 	color: rgb(62, 201, 40);
 }
+.nav-list .window_not_active {
+	color: rgb(64, 64, 64);
+}
 
 .title-navbar {
 	font-family: 'Tangerine', serif;
@@ -32,3 +35,4 @@
 .nav-list a:hover {
 	color: rgb(41, 135, 27);
 }
+

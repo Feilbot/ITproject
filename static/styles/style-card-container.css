@@ -7,20 +7,15 @@
 	padding: 0;
 }
 
+body {
+	overflow-y: auto;
+}
+
 .MakeAI {
-	color: color: rgb(126, 252, 91) !important;
+	color: rgb(126, 252, 91) !important;
 }
 .MakeAI1 {
-	color: rgb(126, 252, 91);
-}
-.MakeAI2 {
-	color: rgb(126, 252, 91);
-}
-.MakeAI3 {
-	color: rgb(126, 252, 91);
-}
-.MakeAI4 {
-	color: rgb(126, 252, 91);
+	color: rgb(112, 112, 112);
 }
 
 .right-bar p {
